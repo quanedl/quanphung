@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+}
+
+.mytheorem {
+  border-left: 4px solid #4CAF50;
+  padding: 10px;
+  background-color: #f9fdf9;
+  color: #333333;
+  font-style: italic;
+}

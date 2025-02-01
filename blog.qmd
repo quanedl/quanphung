@@ -1,0 +1,33 @@
+---
+title: "p_q's blog"
+
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+
+format:
+  html:
+    smooth-scroll: true
+    anchor-sections: true
+    other-links:
+      - icon: github
+        text: Github
+        href: https://github.com/quanedl
+      - icon: discord
+        text: Discord
+        href: https://discord.com/users/quaned
+      - icon: facebook
+        text: Facebook
+        href: https://www.facebook.com/quanphung.1603
+      - icon: instagram
+        text: Instagram
+        href: https://www.instagram.com/quanphung.1603/
+      - icon: envelope
+        text: Gmail
+        href: mailto:youremail@gmail.com
+---
